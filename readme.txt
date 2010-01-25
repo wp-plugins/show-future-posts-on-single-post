@@ -3,7 +3,7 @@ Contributors: sdumanig
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=A93DNKTKQVUPG&lc=PH&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
 Tags: sdumanig, dumanig, future post, schedule post, future shows, scheduled shows, event post, future post, future event post, future, events, event, schedule, Post, posts, page, pages, plugin, WordPress Plugin
 Requires at least: 1.5
-Tested up to: 2.8.6
+Tested up to: 2.9.1
 Stable tag: trunk
 
 Lets you show Future or Schedule Post on Single Posts. It also enables comments for future posts.
